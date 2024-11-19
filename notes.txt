@@ -1,0 +1,12 @@
+Ardurover with no GPS: https://ardupilot.org/rover/docs/common-vio-tracking-camera.html
+
+Motor Controller: 
+* https://www.dfrobot.com/product-1534.html
+* https://www.pololu.com/product/3682/resources <-- I like this one and skipping the flight controller.
+
+
+Flight Controller: 
+* Potentially Skip? If we get a good motor controller, do we need a flight controller?
+
+Compute: 
+* Teensy -> Rpi once we get sensors? 
