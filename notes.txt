@@ -10,3 +10,7 @@ Flight Controller:
 
 Compute: 
 * Teensy -> Rpi once we get sensors? 
+
+RC Controller: FLYSKY FS-i6X 10CH 2.4GHz RC
+
+IR sensors: weideer 5pcs IR Infrared Obstacle Avoidance Sensor Module Reflective Photoelectric Sensor Module 3.3V-5V 3-Wire for Arduino Smart Car Robot K-079
